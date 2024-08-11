@@ -1,3 +1,3 @@
 export default function RootLayout({ children }) {
-  return <div>{children}hjbkbhbkjhjhjh</div>;
+  return <div>{children}</div>;
 }
