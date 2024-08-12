@@ -7,3 +7,4 @@ export default function formatDate() {
   });
   return date;
 }
+console.log("gf");
